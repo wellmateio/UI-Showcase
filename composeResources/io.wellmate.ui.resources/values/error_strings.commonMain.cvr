@@ -1,0 +1,6 @@
+version:0
+string|error_network_error|TmV0d29yayBlcnJvciBvY2N1cnJlZA==
+string|error_operation_failed|T3BlcmF0aW9uIGZhaWxlZA==
+string|error_photo_library_permission_denied|UGhvdG8gbGlicmFyeSBwZXJtaXNzaW9uIGRlbmllZC4gUGxlYXNlIGVuYWJsZSBpdCBpbiBzZXR0aW5ncy4=
+string|error_timeout|T3BlcmF0aW9uIHRpbWVkIG91dA==
+string|error_unexpected|QW4gdW5leHBlY3RlZCBlcnJvciBvY2N1cnJlZA==
