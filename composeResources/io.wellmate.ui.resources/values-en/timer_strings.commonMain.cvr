@@ -4,13 +4,11 @@ string|timer_cd_pause_button|UGF1c2U=
 string|timer_cd_play_button|UGxheQ==
 string|timer_cd_settings_button|U2V0dGluZ3M=
 string|timer_cd_stop_button|U3RvcA==
-string|timer_exercise|RXhlcmNpc2U=
+string|timer_deep_work|RGVlcCB3b3Jr
 string|timer_meditation|TWVkaXRhdGlvbg==
 string|timer_nap|TmFw
-string|timer_pet|UGV0
+string|timer_pet|UGxheWluZyB3aXRoIGEgcGV0
 string|timer_screen_title|TWVkaXRhdGlvbg==
-string|timer_scroll|U2Nyb2xs
-string|timer_sport|U3BvcnQ=
-string|timer_title|VGltZXI=
+string|timer_scroll|TWluZGxlc3Mgc2Nyb2xsaW5n
+string|timer_title|TWluZA==
 string|timer_walk|V2Fsaw==
-string|timer_work|V29yaw==
