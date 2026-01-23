@@ -32,6 +32,8 @@ string|entry_cd_meal_image_placeholder|TWVhbCBJbWFnZSBQbGFjZWhvbGRlcg==
 string|entry_cd_meal_image|TWVhbCBJbWFnZQ==
 string|entry_cd_remove_ingredient|UmVtb3Zl
 string|entry_cd_save_button|U2F2ZQ==
+string|entry_delete_ingredient_confirm_message|QXJlIHlvdSBzdXJlIHlvdSB3YW50IHRvIHJlbW92ZSB0aGlzIGluZ3JlZGllbnQ/
+string|entry_delete_ingredient_confirm_title|RGVsZXRlIEluZ3JlZGllbnQ=
 string|entry_drink_amount|QW1vdW50
 string|entry_drink_date|RGF0ZQ==
 string|entry_drink_note_placeholder|QWRkIGEgbm90ZS4uLg==
@@ -93,5 +95,5 @@ string|entry_screen_ingredients|SW5ncmVkaWVudHM=
 string|entry_screen_kcal_format|VG90YWwgS2NhbDogJTEkZA==
 string|entry_screen_meal_name_label|TWVhbCBOYW1l
 string|entry_screen_protein_format|UHJvdGVpbjogJTEkZCBn
-string|entry_screen_title|Rm9vZCBFbnRyeQ==
+string|entry_screen_title|QWRkaW5nIG1lYWw=
 string|entry_screen_why_did_i_eat|V2h5IGRpZCBJIGVhdD8=

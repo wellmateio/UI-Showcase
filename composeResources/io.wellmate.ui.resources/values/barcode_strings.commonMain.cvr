@@ -1,0 +1,15 @@
+version:0
+string|barcode_cd_barcode_icon|QmFyY29kZQ==
+string|barcode_cd_scan_button|U2NhbiBiYXJjb2Rl
+string|barcode_loading|TG9va2luZyB1cCBwcm9kdWN0Li4u
+string|barcode_lookup_failed|TG9va3VwIGZhaWxlZA==
+string|barcode_not_found|UHJvZHVjdCBub3QgZm91bmQ=
+string|barcode_scanning|U2Nhbm5pbmcuLi4=
+string|barcode_tap_to_lookup|VGFwIHRvIGxvb2t1cA==
+string|gallery_analyze_image|QW5hbHl6ZSB3aXRoIEFJ
+string|gallery_scan_barcode|U2NhbiBmb3IgYmFyY29kZQ==
+string|gallery_switch_to_camera|U3dpdGNoIHRvIGNhbWVyYQ==
+string|product_type_drink|RHJpbmsgLyBCZXZlcmFnZQ==
+string|product_type_meal|Rm9vZCAvIE1lYWw=
+string|product_type_message|V2UgY291bGRuXCd0IGRldGVybWluZSBpZiB0aGlzIGlzIGZvb2Qgb3IgYSBiZXZlcmFnZS4gUGxlYXNlIHNlbGVjdDo=
+string|product_type_title|V2hhdCB0eXBlIG9mIHByb2R1Y3Q/
