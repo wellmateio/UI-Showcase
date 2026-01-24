@@ -95,3 +95,8 @@ string|entry_screen_meal_name_label|TWVhbCBOYW1l
 string|entry_screen_protein_format|UHJvdGVpbjogJTEkZCBn
 string|entry_screen_title|QWRkaW5nIG1lYWw=
 string|entry_screen_why_did_i_eat|V2h5IGRpZCBJIGVhdD8=
+string|entry_text_date|RGF0ZQ==
+string|entry_text_description_hint|ZS5nLiBDaGlja2VuIHNhbGFkIHdpdGggcmljZQ==
+string|entry_text_description_label|RGVzY3JpYmUgd2hhdCB5b3UgYXRl
+string|entry_text_time|VGltZQ==
+string|entry_text_title|V2hhdCBkaWQgeW91IGVhdD8=

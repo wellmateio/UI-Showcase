@@ -25,6 +25,7 @@ string|entry_activity_type_walking|V2Fsa2luZw==
 string|entry_activity_type_yoga|WW9nYQ==
 string|entry_activity_type|QWN0aXZpdHk=
 string|entry_button_cancel|Q2FuY2Vs
+string|entry_button_delete|RGVsZXRl
 string|entry_button_save|U2F2ZQ==
 string|entry_cd_add_ingredient|QWRk
 string|entry_cd_back_button|QmFjaw==
@@ -32,6 +33,10 @@ string|entry_cd_meal_image_placeholder|TWVhbCBJbWFnZSBQbGFjZWhvbGRlcg==
 string|entry_cd_meal_image|TWVhbCBJbWFnZQ==
 string|entry_cd_remove_ingredient|UmVtb3Zl
 string|entry_cd_save_button|U2F2ZQ==
+string|entry_delete_confirm_message|VGhpcyBhY3Rpb24gY2Fubm90IGJlIHVuZG9uZS4=
+string|entry_delete_confirm_no|Q2FuY2Vs
+string|entry_delete_confirm_title|RGVsZXRlIEVudHJ5Pw==
+string|entry_delete_confirm_yes|RGVsZXRl
 string|entry_delete_ingredient_confirm_message|QXJlIHlvdSBzdXJlIHlvdSB3YW50IHRvIHJlbW92ZSB0aGlzIGluZ3JlZGllbnQ/
 string|entry_delete_ingredient_confirm_title|RGVsZXRlIEluZ3JlZGllbnQ=
 string|entry_drink_amount|QW1vdW50
@@ -97,3 +102,8 @@ string|entry_screen_meal_name_label|TWVhbCBOYW1l
 string|entry_screen_protein_format|UHJvdGVpbjogJTEkZCBn
 string|entry_screen_title|QWRkaW5nIG1lYWw=
 string|entry_screen_why_did_i_eat|V2h5IGRpZCBJIGVhdD8=
+string|entry_text_date|RGF0ZQ==
+string|entry_text_description_hint|ZS5nLiBDaGlja2VuIHNhbGFkIHdpdGggcmljZQ==
+string|entry_text_description_label|RGVzY3JpYmUgd2hhdCB5b3UgYXRl
+string|entry_text_time|VGltZQ==
+string|entry_text_title|V2hhdCBkaWQgeW91IGVhdD8=
