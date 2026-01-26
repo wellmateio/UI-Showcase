@@ -34,6 +34,13 @@ string|entry_cd_remove_ingredient|UmVtb3Zl
 string|entry_cd_save_button|U2F2ZQ==
 string|entry_drink_amount|QW1vdW50
 string|entry_drink_date|RGF0ZQ==
+string|entry_drink_feeling_bloated|QmxvYXRlZA==
+string|entry_drink_feeling_energized|RW5lcmdpemVk
+string|entry_drink_feeling_full|RnVsbA==
+string|entry_drink_feeling_other|T3RoZXI=
+string|entry_drink_feeling_refreshed|UmVmcmVzaGVk
+string|entry_drink_feeling_satisfied|U2F0aXNmaWVk
+string|entry_drink_feeling_thirsty|U3RpbGwgdGhpcnN0eQ==
 string|entry_drink_note_placeholder|QWRkIGEgbm90ZS4uLg==
 string|entry_drink_time|VGltZQ==
 string|entry_drink_title|RHJpbmsgRW50cnk=
@@ -56,6 +63,7 @@ string|entry_image_source_camera|VGFrZSBQaG90bw==
 string|entry_image_source_gallery_description|Q2hvb3NlIGZyb20gR2FsbGVyeQ==
 string|entry_image_source_gallery|Q2hvb3NlIGZyb20gR2FsbGVyeQ==
 string|entry_image_source_title|QWRkIFBob3Rv
+string|entry_meal_note_placeholder|QWRkIGEgbm90ZS4uLg==
 string|entry_meditation_date|RGF0ZQ==
 string|entry_meditation_duration|RHVyYXRpb24=
 string|entry_meditation_feeling_happy|aGFwcHk=
