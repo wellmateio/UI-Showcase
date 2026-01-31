@@ -1,4 +1,12 @@
 version:0
+string|entry_activity_feeling_beat|V3lrb8WEY3pvbnkvYQ==
+string|entry_activity_feeling_happy|U3pjesSZxZtsaXd5L2E=
+string|entry_activity_feeling_hungry|R8WCb2RueS9h
+string|entry_activity_feeling_other|SW5uZQ==
+string|entry_activity_feeling_satisfied|VXNhdHlzZmFrY2pvbm93YW55L2E=
+string|entry_activity_feeling_tired|Wm3EmWN6b255L2E=
+string|entry_activity_feeling_unsatisfied|TmllemFkb3dvbG9ueS9h
+string|entry_activity_feeling_vital|UGXFgmVuL2Egd2lnb3J1
 string|entry_cd_add_ingredient|RG9kYWo=
 string|entry_cd_back_button|V3LDs8SH
 string|entry_cd_meal_image_placeholder|U3ltYm9sIHphc3TEmXBjenkgemRqxJljaWEgcG9zacWCa3U=
@@ -17,6 +25,14 @@ string|entry_image_source_camera|WnLDs2IgemRqxJljaWU=
 string|entry_image_source_gallery_description|V3liaWVyeiB6IGdhbGVyaWk=
 string|entry_image_source_gallery|V3liaWVyeiB6IGdhbGVyaWk=
 string|entry_image_source_title|RG9kYWogemRqxJljaWU=
+string|entry_meditation_feeling_happy|U3pjesSZxZtsaXd5L2E=
+string|entry_meditation_feeling_nervous|WmRlbmVyd293YW55L2E=
+string|entry_meditation_feeling_other|SW5uZQ==
+string|entry_meditation_feeling_rested|V3lwb2N6xJl0eS9h
+string|entry_meditation_feeling_satisfied|VXNhdHlzZmFrY2pvbm93YW55L2E=
+string|entry_meditation_feeling_stressed|WmVzdHJlc293YW55L2E=
+string|entry_meditation_feeling_unsatisfied|TmllemFkb3dvbG9ueS9h
+string|entry_meditation_feeling_vital|UGXFgmVuL2Egd2lnb3J1
 string|entry_reason_bored|TnVkYQ==
 string|entry_reason_cravings|WmFjaGNpYW5rYQ==
 string|entry_reason_hungry|R8WCw7Nk

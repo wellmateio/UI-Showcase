@@ -7,6 +7,8 @@ string|barcode_not_found|TmllIHpuYWxlemlvbm8gcHJvZHVrdHU=
 string|barcode_scanning|U2thbm93YW5pZS4uLg==
 string|barcode_tap_to_lookup|RG90a25paiBhYnkgd3lzenVrYcSH
 string|gallery_analyze_image|QW5hbGl6dWogemEgcG9tb2PEhSBBSQ==
+string|gallery_barcode_not_found|TmllIHpuYWxlemlvbm8=
+string|gallery_barcode_scanning|U2thbm93YW5pZS4uLg==
 string|gallery_scan_barcode|U2thbnVqIGtvZCBrcmVza293eQ==
 string|gallery_switch_to_camera|UHJ6ZcWCxIVjeiBuYSBrYW1lcsSZ
 string|product_type_drink|TmFww7Nq

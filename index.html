@@ -13,9 +13,54 @@
             overflow: hidden;
             background-color: #121212;
         }
+        .webgl-error {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            color: #e0e0e0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            text-align: center;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .webgl-error h1 {
+            color: #ff5252;
+            margin-bottom: 16px;
+        }
+        .webgl-error p {
+            max-width: 600px;
+            line-height: 1.6;
+            margin-bottom: 12px;
+        }
+        .webgl-error code {
+            background: #2d2d2d;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 14px;
+        }
     </style>
 </head>
 <body>
+    <script>
+        (function() {
+            var canvas = document.createElement('canvas');
+            var gl = canvas.getContext('webgl2') || canvas.getContext('webgl');
+            if (!gl) {
+                document.body.innerHTML = '<div class="webgl-error">' +
+                    '<h1>WebGL Required</h1>' +
+                    '<p>This application requires WebGL to render graphics, but WebGL is not available in your browser.</p>' +
+                    '<p>If you\'re using <strong>LibreWolf</strong> or a privacy-focused browser, WebGL may be disabled for fingerprint protection.</p>' +
+                    '<p>To enable WebGL in LibreWolf:</p>' +
+                    '<p>1. Open <code>about:config</code></p>' +
+                    '<p>2. Search for <code>webgl.disabled</code></p>' +
+                    '<p>3. Set it to <code>false</code></p>' +
+                    '</div>';
+                throw new Error('WebGL not available');
+            }
+        })();
+    </script>
     <script src="wellmate-showcase.js"></script>
 </body>
 </html>
