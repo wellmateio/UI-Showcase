@@ -24,7 +24,9 @@ string|entry_activity_type_swimming|U3dpbW1pbmc=
 string|entry_activity_type_walking|V2Fsa2luZw==
 string|entry_activity_type_yoga|WW9nYQ==
 string|entry_activity_type|QWN0aXZpdHk=
+string|entry_button_analyze_continue|QW5hbHl6ZSAmIENvbnRpbnVl
 string|entry_button_cancel|Q2FuY2Vs
+string|entry_button_continue|Q29udGludWU=
 string|entry_button_save|U2F2ZQ==
 string|entry_cd_add_ingredient|QWRk
 string|entry_cd_back_button|QmFjaw==
