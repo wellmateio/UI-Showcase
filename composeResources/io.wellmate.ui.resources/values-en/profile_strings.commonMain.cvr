@@ -36,6 +36,17 @@ string|profile_delete_account_title|RGVsZXRlIEFjY291bnQ=
 string|profile_email|RW1haWw=
 string|profile_error_title|RXJyb3I=
 string|profile_height|SGVpZ2h0IChjbSk=
+string|profile_integrations_connected|Q29ubmVjdGVk
+string|profile_integrations_connect|Q29ubmVjdA==
+string|profile_integrations_disconnect_cancel|Q2FuY2Vs
+string|profile_integrations_disconnect_confirm|RGlzY29ubmVjdA==
+string|profile_integrations_disconnect_message|WW91IHdpbGwgbm8gbG9uZ2VyIHN5bmMgZGF0YSBmcm9tICUxJHMu
+string|profile_integrations_disconnect_title|RGlzY29ubmVjdCAlMSRzPw==
+string|profile_integrations_disconnect|RGlzY29ubmVjdA==
+string|profile_integrations_error|RXJyb3I6ICUxJHM=
+string|profile_integrations_not_connected|Tm90IGNvbm5lY3RlZA==
+string|profile_integrations_sync|U3luYw==
+string|profile_integrations_title|SGVhbHRoIEludGVncmF0aW9ucw==
 string|profile_link|TGluaw==
 string|profile_login_options_title|TG9naW4gT3B0aW9ucw==
 string|profile_logout_title|TG9nb3V0
