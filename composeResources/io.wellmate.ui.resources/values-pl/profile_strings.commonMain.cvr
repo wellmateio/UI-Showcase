@@ -26,6 +26,7 @@ string|error_set_password|TmllIHVkYcWCbyBzacSZIHVzdGF3acSHIGhhc8WCYS4gU3Byw7NidW
 string|error_unlink_credential|TmllIHVkYcWCbyBzacSZIG9kxYLEhWN6ecSHIGtvbnRhICVz
 string|loading_profile|xYFhZG93YW5pZSBwcm9maWx14oCm
 string|loading_saving|WmFwaXN5d2FuaWXigKY=
+string|login_method_apple|QXBwbGU=
 string|login_method_facebook|RmFjZWJvb2s=
 string|login_method_google|R29vZ2xl
 string|login_method_password|SGFzxYJv

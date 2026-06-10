@@ -14,6 +14,7 @@ string|error_set_password|RmFpbGVkIHRvIHNldCBwYXNzd29yZC4gUGxlYXNlIHRyeSBhZ2Fpbi
 string|error_unlink_credential|RmFpbGVkIHRvIHVubGluayAlcyBhY2NvdW50
 string|loading_profile|TG9hZGluZyBwcm9maWxl4oCm
 string|loading_saving|U2F2aW5n4oCm
+string|login_method_apple|QXBwbGU=
 string|login_method_facebook|RmFjZWJvb2s=
 string|login_method_google|R29vZ2xl
 string|login_method_password|UGFzc3dvcmQ=
