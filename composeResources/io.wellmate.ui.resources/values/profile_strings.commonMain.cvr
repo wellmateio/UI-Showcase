@@ -54,6 +54,7 @@ string|profile_disconnect_title|RGlzY29ubmVjdCAlMSRzPw==
 string|profile_email|RW1haWw=
 string|profile_error_title|RXJyb3I=
 string|profile_height|SGVpZ2h0IChjbSk=
+string|profile_integrations_coming_soon|Q29taW5nIHNvb24=
 string|profile_integrations_connected|Q29ubmVjdGVk
 string|profile_integrations_connect|Q29ubmVjdA==
 string|profile_integrations_disconnect_cancel|Q2FuY2Vs
@@ -78,6 +79,7 @@ string|profile_not_set|Tm90IHNldA==
 string|profile_old_password|T2xkIFBhc3N3b3Jk
 string|profile_personal_info|UGVyc29uYWwgSW5mb3JtYXRpb24=
 string|profile_pro_badge|UFJP
+string|profile_questionnaire_title|UXVlc3Rpb25uYWlyZQ==
 string|profile_retry|UmV0cnk=
 string|profile_save_changes|U2F2ZSBDaGFuZ2Vz
 string|profile_section_main|TWFpbg==

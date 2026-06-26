@@ -61,6 +61,27 @@
             }
         })();
     </script>
+    <script>
+        // Store-screenshot locale override. Compose Resources picks the locale from
+        // navigator.languages; force it to the ?lang= param so we can render the
+        // showcase in a specific locale (e.g. ?lang=pl) regardless of the host OS.
+        // Must run BEFORE the wasm module loads and reads navigator.languages.
+        (function () {
+            var lang = new URLSearchParams(window.location.search).get('lang');
+            if (!lang || !/^[a-z]{2}(-[A-Z]{2})?$/.test(lang)) return;  // only accept BCP-47-ish codes
+            window.__customLocale = lang;
+            function override(prop, value) {
+                try {
+                    Object.defineProperty(Navigator.prototype, prop, {
+                        get: function () { return value; },
+                        configurable: true
+                    });
+                } catch (e) { /* ignore */ }
+            }
+            override('languages', [lang]);
+            override('language', lang);
+        })();
+    </script>
     <script src="wellmate-showcase.js"></script>
 </body>
 </html>
