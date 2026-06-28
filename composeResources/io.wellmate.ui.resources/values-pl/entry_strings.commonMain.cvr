@@ -19,6 +19,7 @@ string|entry_activity_time_start|R29kemluYSByb3pwb2N6xJljaWE=
 string|entry_activity_title|U3pjemVnw7PFgnkgYWt0eXdub8WbY2k=
 string|entry_activity_type_cycling|SmF6ZGEgbmEgcm93ZXJ6ZQ==
 string|entry_activity_type_gym|U2nFgm93bmlh
+string|entry_activity_type_other|SW5uZQ==
 string|entry_activity_type_running|QmllZ2FuaWU=
 string|entry_activity_type_swimming|UMWCeXdhbmll
 string|entry_activity_type_walking|U3BhY2Vy
@@ -53,8 +54,10 @@ string|entry_drink_feeling_thirsty|UHJhZ25pZW5pZQ==
 string|entry_drink_note_placeholder|RG9kYWogbm90YXRrxJkuLi4=
 string|entry_drink_time|R29kemluYQ==
 string|entry_drink_title|V3BpcyBuYXBvanU=
+string|entry_drink_type_alcohol|QWxrb2hvbA==
 string|entry_drink_type_coffee|S2F3YQ==
 string|entry_drink_type_juice|U29r
+string|entry_drink_type_milk|TWxla28=
 string|entry_drink_type_other|SW5uZQ==
 string|entry_drink_type_soda|TmFww7NqIGdhem93YW55
 string|entry_drink_type_tea|SGVyYmF0YQ==
@@ -90,6 +93,10 @@ string|entry_meditation_type_body_scan|U2thbm93YW5pZSBjaWHFgmE=
 string|entry_meditation_type_breathing|T2RkZWNob3dh
 string|entry_meditation_type_classic|S2xhc3ljem5h
 string|entry_meditation_type_guided|WiBwcnpld29kbmlraWVt
+string|entry_meditation_type_loving_kindness|xbt5Y3psaXdvxZvEhw==
+string|entry_meditation_type_mindfulness|VXdhxbxub8WbxIc=
+string|entry_meditation_type_other|SW5uZQ==
+string|entry_meditation_type_visualization|V2l6dWFsaXphY2ph
 string|entry_meditation_type|Um9kemFq
 string|entry_reason_bored|TnVkYQ==
 string|entry_reason_cravings|WmFjaGNpYW5rYQ==
